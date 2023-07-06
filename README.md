@@ -1,5 +1,5 @@
 
-  # <font size="6">Nuevo Iloco National High School Management System - NINH-SMS</font>
+  # <font size="6">Nuevo Iloco National High School Management System - NINHS-SMS</font>
 
 - A desktop appliction that is used to manage the students, teachers, and employees of the school. Using C# and MySQL.
 
